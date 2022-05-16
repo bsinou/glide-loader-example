@@ -1,4 +1,4 @@
-package judds.github.com.base64modelloaderexample;
+package org.sinou.android.sandbox.glide.loader;
 
 import androidx.annotation.Nullable;
 import com.bumptech.glide.load.Options;

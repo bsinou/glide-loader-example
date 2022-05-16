@@ -1,4 +1,4 @@
-package judds.github.com.base64modelloaderexample;
+package org.sinou.android.sandbox.glide.loader;
 
 import androidx.annotation.NonNull;
 import android.util.Base64;

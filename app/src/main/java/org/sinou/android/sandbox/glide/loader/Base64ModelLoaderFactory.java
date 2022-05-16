@@ -1,4 +1,4 @@
-package judds.github.com.base64modelloaderexample;
+package org.sinou.android.sandbox.glide.loader;
 
 import com.bumptech.glide.load.model.ModelLoader;
 import com.bumptech.glide.load.model.ModelLoaderFactory;
@@ -16,4 +16,5 @@ public class Base64ModelLoaderFactory implements ModelLoaderFactory<String, Byte
   public void teardown() {
     // Do nothing.
   }
+
 }

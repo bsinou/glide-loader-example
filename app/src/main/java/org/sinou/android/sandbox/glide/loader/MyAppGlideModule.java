@@ -1,4 +1,4 @@
-package judds.github.com.base64modelloaderexample;
+package org.sinou.android.sandbox.glide.loader;
 
 import android.content.Context;
 import com.bumptech.glide.Glide;
