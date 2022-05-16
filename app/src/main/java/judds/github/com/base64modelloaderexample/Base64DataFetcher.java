@@ -1,6 +1,6 @@
 package judds.github.com.base64modelloaderexample;
 
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 import android.util.Base64;
 import com.bumptech.glide.Priority;
 import com.bumptech.glide.load.DataSource;
